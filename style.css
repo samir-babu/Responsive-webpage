@@ -88,7 +88,13 @@ nav ul li a:hover{
         content:"\f00d" ;
     }
 }
-    
-
+    /* header section */
+header{
+    background-image: url("images/60562066.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
     
 
